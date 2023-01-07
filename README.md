@@ -1,11 +1,10 @@
-# XTCinsatller
+# XTCinstaller
 
 #### 介绍
 此项目由ReX 组织下ReX Wear 项目的 ReX iMoo Team 团队合力开发，版权及著作权属于ReX群组
 
 #### 软件架构
-x32或x64的Windows10/11系统
-
+x86或x86_64的Windows10/11系统
 
 #### 安装教程
 
@@ -22,7 +21,7 @@ x32或x64的Windows10/11系统
 
 #### 参与贡献
 
-1.  Ling
-2.  冲之律者
-3.  wangzm5773
+1.  [Ling](https://space.bilibili.com/604197209)
+2.  [冲之律者](https://space.bilibili.com/642265880)
+3.  [wangzm5773](https://space.bilibili.com/480227395/)
 
