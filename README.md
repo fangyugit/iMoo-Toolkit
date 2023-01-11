@@ -1,40 +1,40 @@
 ### iMoo Toolkit
 
 
-#### 介绍
-此项目由ReX 组织下ReX Wear 项目的 ReX iMoo Team 团队合力开发，版权及著作权属于ReX群组
+#### Introduce
+This project is jointly developed by ReX iMoo Team of ReX Wear Project under ReX organization. The copyright and copyright belong to ReX Group.
 
-#### 软件架构
-x86或x86_64的Windows10/11系统（其余旧版本系统未进行测试）
+#### Software architecture
+x86 or x86_64 Windows 10/11 system (other older versions have not been tested)
 
-#### 下载软件
-请前往[releases（gitee）](https://gitee.com/ReXWear/xtcinstaller-release/releases/)或[releases（github）](https://github.com/ReX-iMoo-Team/XTCinstaller-release/releases)页面下载
+#### Download the software
+Please go to[releases（gitee）](https://gitee.com/ReXWear/xtcinstaller-release/releases/)or[releases（github）](https://github.com/ReX-iMoo-Team/XTCinstaller-release/releases)Web page download
 
-#### 软件许可条款与条件
-此项目由ReX 组织下ReX Wear 项目的 ReX iMoo Team 团队合力开发  
-版权及著作权属于ReX群组  
-请勿对此软件进行修改，注入，反汇编等破解行为  
-任何使用，传播，贩售等有关此软件行为与其作者无关  
-请勿用其作商业用途，一经发现，将严肃处理  
-使用此软件则默认同意以上协议
+#### Software License Terms and Conditions
+This project is jointly developed by ReX iMoo Team of ReX Wear Project organized by ReX.
+Copyright and copyright belong to ReX group.
+Please do not modify, inject, disassemble, or otherwise crack the software.
+Any use, dissemination and sale of this software has nothing to do with its author.
+Do not use it for commercial purposes. Once found, it will be dealt with seriously.
+If you use this software, you agree to the above agreement by default.
 
-#### 安装教程
-软件安装版本：
-1.  运行安装程序
-2.  仔细阅读后同意条款
-3.  等待安装程序释放程序主体
-4.  安装程序在释放结束后将自动运行驱动安装程序
+#### Installation Tutorial
+Software installation version
+1. Run the installation program
+2. Read carefully and agree to the terms
+3. Wait for the installer to release the program body
+4. The installer will automatically run the driver installer after the release
 
-单文件版本：
-电脑安装驱动后直接打开exe可执行文件即可运行（若您使用代表您同意条款）
+Single file version:
+After installing the driver on the computer, directly open the exe executable file to run. (If you agree to the terms on behalf of you)
 
-#### 使用说明
+#### Instructions
 
-1.  请使用Windows10/11完整版系统
-2.  请在使用四点线连接手表后运行此程序
-3.  请勿修改，注入此程序，否则可能无法正常运行
+1. Please use Windows 11/10 full version system
+2. Please run this program after connecting the watch with a four-point wire
+3. Do not modify and inject this program, otherwise it may not work properly
 
-#### 参与贡献
+#### Participation contribution
 
 1.  [Ling](https://space.bilibili.com/604197209)
 2.  [冲之律者](https://space.bilibili.com/642265880)
