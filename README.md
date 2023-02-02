@@ -8,7 +8,7 @@ This project is jointly developed by ReX iMoo Team of ReX Wear Project under ReX
 x86 or x86_64 Windows 10/11 system (other older versions have not been tested)
 
 #### Download the software
-Please go to[releases（gitee）](https://gitee.com/ReXWear/xtcinstaller-release/releases/)or[releases（github）](https://github.com/ReX-iMoo-Team/XTCinstaller-release/releases)Web page download
+Please go to[releases（gitee）](https://gitee.com/ReXWear/xtcinstaller-release/releases/)or[releases（github）](https://github.com/ReX-iMoo-Team/iMoo-Toolkit-release/releases)Web page download
 
 #### Software License Terms and Conditions
 This project is jointly developed by ReX iMoo Team of ReX Wear Project organized by ReX.
