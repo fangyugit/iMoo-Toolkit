@@ -5,13 +5,13 @@
 
 接下来会对每个功能进行详细的讲解:
  1. 安装设备(手表)的内部存储根目录`/sdcard/`下的所有apk文件。
-  - 文件名请根据`1.apk`,`2.apk`这样排列。
-  - ⚠不推荐新手小白使用
+    - 文件名请根据`1.apk`,`2.apk`这样排列。
+    - ⚠不推荐新手小白使用
  2. 安装设备(手表)内特定(绝对)路径的文件，如`/sdcard/Magisk-v23.1.apk`。
-  - ⚠不推荐新手小白使用
+    - ⚠不推荐新手小白使用
  3. 解锁`adb push`的限制以可以使用其将文件传输至设备(手表)。
  4. 从本地(电脑)或网络安装软件。
-  - 从本地可以使用绝对路径和相对路径，如`C:\User\Administrator\Download\Magisk-v23.0.apk`。
-  - 从网络安装输入链接即可，如`https://github.com/topjohnwu/Magisk/releases/download/v23.0/Magisk-v23.0.apk`
-  - 如果你看不懂，可以直接向你要安装的本地文件或文件链接拖入窗口即可。
-  - ♥️推荐新手小白使用♥️
+    - 从本地可以使用绝对路径和相对路径，如`C:\User\Administrator\Download\Magisk-v23.0.apk`。
+    - 从网络安装输入链接即可，如`https://github.com/topjohnwu/Magisk/releases/download/v23.0/Magisk-v23.0.apk`
+    - 如果你看不懂，可以直接向你要安装的本地文件或文件链接拖入窗口即可。
+    - ♥️推荐新手小白使用♥️
