@@ -35,12 +35,10 @@ Rex Wear论坛链接：[https://wear.rexwe.net](https://wear.rexwe.net)
 2.  请在使用四点线连接手表后运行此程序
 3.  请勿修改，注入此程序，否则可能无法正常运行
 
-#### 关于开源
-
-由于一些不可抗因素，致使软件暂时无法开源，等到时机成熟必定会公开源码仓库
-
 #### 参与贡献
 
 1.  [Ling](https://space.bilibili.com/604197209)
 2.  [冲之律者](https://space.bilibili.com/642265880)
 3.  [wangzm5773](https://space.bilibili.com/480227395)
+
+#### [教程](https://github.com/ReX-iMoo-Team/iMoo-Toolkit/blob/master/README_CN_2.md)
