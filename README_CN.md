@@ -41,4 +41,5 @@ Rex Wear论坛链接：[https://wear.rexwe.net](https://wear.rexwe.net)
 2.  [冲之律者](https://space.bilibili.com/642265880)
 3.  [wangzm5773](https://space.bilibili.com/480227395)
 
+#### [zianttのWeb版](https://ziantt.github.io/xtc-tool-web)
 #### [教程](https://github.com/ReX-iMoo-Team/iMoo-Toolkit/blob/master/README_CN_2.md)
