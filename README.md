@@ -30,7 +30,7 @@ After installing the driver on the computer, directly open the exe executable fi
 
 #### Instructions
 
-1. Please use Windows 11/10 full version system
+1. Please use Windows 8.1/11/10 full version system
 2. Please run this program after connecting the watch with a four-point wire
 3. Do not modify and inject this program, otherwise it may not work properly
 
