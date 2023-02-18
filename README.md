@@ -5,7 +5,7 @@
 This project is jointly developed by ReX iMoo Team of ReX Wear Project under ReX organization. The copyright and copyright belong to ReX Group.
 
 #### Software architecture
-x86 or x86_64 Windows 10/11 system (other older versions have not been tested)
+x86 or x86_64 Windows 8.1/10/11 system (other older versions have not been tested)
 
 #### Download the software
 Please go to[releases（gitee）](https://gitee.com/ReXWear/xtcinstaller-release/releases/)or[releases（github）](https://github.com/ReX-iMoo-Team/iMoo-Toolkit/releases)Web page download
