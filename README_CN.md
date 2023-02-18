@@ -5,7 +5,7 @@
 此项目由ReX 组织下ReX Wear 项目的 ReX iMoo Team 团队合力开发，版权及著作权属于ReX群组
 
 #### 软件架构
-x86或x86_64的Windows10/11系统（其余旧版本系统未进行测试）
+x86或x86_64的Windows8.1/10/11系统（其余旧版本系统未进行测试）
 
 #### 下载软件
 请前往[releases（gitee）](https://gitee.com/ReXWear/xtcinstaller-release/releases/)或[releases（github）](https://github.com/ReX-iMoo-Team/iMoo-Toolkit/releases)页面下载
