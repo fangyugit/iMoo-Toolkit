@@ -31,7 +31,7 @@ Rex Wear论坛链接：[https://wear.rexwe.net](https://wear.rexwe.net)
 
 #### 使用说明
 
-1.  请使用Windows10/11完整版系统
+1.  请使用Windows8.1/10/11完整版系统
 2.  请在使用四点线连接手表后运行此程序
 3.  请勿修改，注入此程序，否则可能无法正常运行
 
